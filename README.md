@@ -1,3 +1,3 @@
 # projeto-devops-S.I-
 
-bem-vindo ao noso projeto!!
+bem-vindo ao nosso projeto!!
